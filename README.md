@@ -14,14 +14,14 @@ An intelligent machine learning system designed to match patients with appropria
 
 ## 📁 Files
 
-- `Matching_intelligent_new (2).ipynb` – main Jupyter Notebook implementing the pipeline
+- `Matching_intelligent_system.ipynb` – main Jupyter Notebook implementing the pipeline
 - `requirements.txt` – list of required Python packages
 
 ## ⚙️ Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/intelligent-patient-doctor-matching-ml.git
+git clone https://github.com/ines22b/intelligent-patient-doctor-matching-ml.git
 cd intelligent-patient-doctor-matching-ml
 ```
 
@@ -44,7 +44,7 @@ jupyter notebook
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available .
 
 ## 🙋 Author
 
