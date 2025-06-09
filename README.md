@@ -42,10 +42,6 @@ jupyter notebook
 3. Review model results and visualizations.
 4. Download the generated PDF reports with recommended matches.
 
-## 📄 License
-
-This project is open-source and available .
-
 ## 🙋 Author
 
 Developed by [Inas Boudjeda]. Feel free to contribute, fork, or reach out for collaboration.
